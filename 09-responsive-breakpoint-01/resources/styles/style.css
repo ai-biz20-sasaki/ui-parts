@@ -74,3 +74,7 @@ li {
   margin-top: 0.5rem;    /* 上側の余白を追加 */
   margin-bottom: 0.5rem; /* 下側の余白を追加 */  
 }
+
+p{
+  margin: 10px;
+}
